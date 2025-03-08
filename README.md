@@ -5,3 +5,4 @@ This repository is a compilation of MySQL codes for my learning journey. It incl
 ### Contents:
 - Data Analyst Bootcamp MySQL Series – SQL queries from Alex The Analyst's YouTube series.
 - Data Cleaning Project - a project from Data Analyst Bootcamp MySQL Series.
+- Exploratory Data Analysis - a project from Data Analyst Bootcamp MySQL Series.
